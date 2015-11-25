@@ -31,7 +31,7 @@ selected and associated info window opens above map marker with information.
 
 * Laptop
 
-![Laptop](ttps://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/Laptop.png)
+![Laptop](https://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/Laptop.png)
 ------------------------------------------------------------------------------
 
 * iPad
