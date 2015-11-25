@@ -35,6 +35,7 @@ selected and associated info window opens above map marker with information.
 ------------------------------------------------------------------------------
 
 * iPad
+
 ![iPad](https://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/iPadSearch1.png)
 ![iPad](https://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/iPadSearch2.png)
 ------------------------------------------------------------------
