@@ -29,7 +29,8 @@ selected and associated info window opens above map marker with information.
 
 * Application renders on-screen in a responsive manner.(Laptop, iPad and iPhone)
 
-* Laptoph
+* Laptop
+
 ![Laptop](ttps://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/Laptop.png)
 ------------------------------------------------------------------------------
 
@@ -39,5 +40,6 @@ selected and associated info window opens above map marker with information.
 ------------------------------------------------------------------
 
 * iPhone
+
 ![iPhone](https://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/iPhone.png)
 
