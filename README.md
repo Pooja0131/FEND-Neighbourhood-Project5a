@@ -29,15 +29,15 @@ selected and associated info window opens above map marker with information.
 
 * Application renders on-screen in a responsive manner.(Laptop, iPad and iPhone)
 
-* Laptop
-![Laptop](https://cloud.githubusercontent.com/assets/12447584/11315889/0c03b40c-8fc8-11e5-9e6e-5e6bcff72f64.png)
+* Laptoph
+![Laptop](ttps://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/Laptop.png)
 ------------------------------------------------------------------------------
 
 * iPad
-![iPad](https://cloud.githubusercontent.com/assets/12447584/11315889/0c03b40c-8fc8-11e5-9e6e-5e6bcff72f64.png)
-![iPad](https://cloud.githubusercontent.com/assets/12447584/11315889/0c03b40c-8fc8-11e5-9e6e-5e6bcff72f64.png)
+![iPad](https://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/iPadSearch1.png)
+![iPad](https://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/iPadSearch2.png)
 ------------------------------------------------------------------
 
 * iPhone
-![iPhone](https://cloud.githubusercontent.com/assets/12447584/11315889/0c03b40c-8fc8-11e5-9e6e-5e6bcff72f64.png)
+![iPhone](https://github.com/Pooja0131/FEND-Neighbourhood-Project5a/blob/master/images/iPhone.png)
 
